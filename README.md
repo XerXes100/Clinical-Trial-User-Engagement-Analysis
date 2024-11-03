@@ -1,0 +1,2 @@
+# Clinical Trial User Engagement Analysis
+ This project analyzes user sentiment from Reddit posts and comments related to clinical trials. It segments users by interest level based on sentiment analysis and generates personalized engagement messages using the OpenAI API to encourage participation in clinical trials. The repository includes source code, documentation, and visualizations to support the analysis.
