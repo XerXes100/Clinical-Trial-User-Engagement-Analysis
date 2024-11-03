@@ -104,13 +104,13 @@ While designing and implementing this solution, I considered several ethical con
 
 ## Evaluation
 - **Functionality**:
-My script effectively scrapes posts and comments from selected subreddits, performs sentiment analysis using the VADER sentiment analyzer, and generates personalized messages with the OpenAI API. It successfully segments users based on their interest levels derived from sentiment scores, ensuring targeted engagement. All functionalities are well-integrated, allowing for seamless data collection and analysis.
+  - My script effectively scrapes posts and comments from selected subreddits, performs sentiment analysis using the VADER sentiment analyzer, and generates personalized messages with the OpenAI API. It successfully segments users based on their interest levels derived from sentiment scores, ensuring targeted engagement. All functionalities are well-integrated, allowing for seamless data collection and analysis.
 - **Code Quality**:
-The code is organized into clear, modular functions, enhancing readability and maintainability. Each function is documented with comments that explain its purpose and the rationale behind its implementation. I followed best practices for coding style and structure, making it easy for others to understand and modify the code as needed.
+  - The code is organized into clear, modular functions, enhancing readability and maintainability. Each function is documented with comments that explain its purpose and the rationale behind its implementation. I followed best practices for coding style and structure, making it easy for others to understand and modify the code as needed.
 - **Innovation**:
-I approached the assignment with a unique perspective by combining sentiment analysis and clustering techniques to understand user engagement more deeply. The integration of the OpenAI API for generating personalized messages demonstrates an innovative solution to engage users meaningfully in clinical trials. Additionally, I incorporated data visualization to present insights clearly and compellingly.
+  - I approached the assignment with a unique perspective by combining sentiment analysis and clustering techniques to understand user engagement more deeply. The integration of the OpenAI API for generating personalized messages demonstrates an innovative solution to engage users meaningfully in clinical trials. Additionally, I incorporated data visualization to present insights clearly and compellingly.
 - **Ethical Considerations**:
-I prioritized ethical considerations throughout the assignment by implementing data privacy measures, such as anonymizing user data and avoiding sensitive information extraction. The design of the message generation process ensures that users are approached based on their expressed interests rather than random outreach, fostering a respectful and considerate user engagement strategy.
+  - I prioritized ethical considerations throughout the assignment by implementing data privacy measures, such as anonymizing user data and avoiding sensitive information extraction. The design of the message generation process ensures that users are approached based on their expressed interests rather than random outreach, fostering a respectful and considerate user engagement strategy.
 
 ## Conclusion
 
